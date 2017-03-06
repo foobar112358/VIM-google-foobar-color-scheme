@@ -1,5 +1,5 @@
 # google-foobar-color-scheme
-This is a recently started, ongoing project. Anyone is welcome to contribute
+This is a recently started, ongoing project.
 #
 I have uploaded a picture of the terminal to sample the colors 
 NOTE: The "code" picture does not make any sense! I have tried to display all colors in one screenshot.
