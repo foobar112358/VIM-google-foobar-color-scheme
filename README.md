@@ -8,5 +8,5 @@ Use this to sample colors for the color scheme
 # Primary Goal:
 To create a color scheme for VIM text editor 
 #
-Other:
+Other Goal:
 Use above implementation to make color schemes for other popular text editors
