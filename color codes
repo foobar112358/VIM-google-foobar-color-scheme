@@ -1,31 +1,20 @@
 Add corresponding color next to these codes 
 Please remove any repeated colors 
-
-Identify colors 
-
+Identify Unlabled colors 
 
 Colors:      
 #3d3d3d
 #d7d7d7
 #373a3a
-#ef67a5 - pink
-#35bdb8 - blue
-#00e575 - green 
-#f48020 - orange
-#ec1b52 - red 
-#f4b400 - yellow
-#fff    - white 
-#656565 - grey 
+#272727
 #444
 #000
-#272727
 #666
-#ec1b52 - timer
-#35bdb8 - prompter
 
 Known: 
+#111    - black - cmd active
+#fff    - white
 #2b2d2d - grey - cmd inactive
-#111 - black - cmd active
 #f48020 - orange - corsor blink 
 #262828 - scrollbar-track 
 #5b5b5b - scrollbar 
@@ -33,3 +22,12 @@ Known:
 #f0f0f0 - save
 #35bdb8 - error message
 #1e1e1e - hover 
+#ec1b52 - timer
+#35bdb8 - prompter
+#ef67a5 - pink
+#35bdb8 - blue
+#00e575 - green 
+#f48020 - orange
+#ec1b52 - red 
+#f4b400 - yellow
+#656565 - grey 
